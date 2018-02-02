@@ -1,4 +1,4 @@
-from repro.config import GREETING, SUBJECT
+from ..config import GREETING, SUBJECT
 
 
 def greet():
